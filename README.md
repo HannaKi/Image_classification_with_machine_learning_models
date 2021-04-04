@@ -1,6 +1,6 @@
 # Image classification with three machine learning models
 
-In the notebook I build, train and compare three separate image classifiers:
+In the notebook I build, train and compare three image classifiers:
 
 * Regularized linear model
 * K nearest neighbors algorithm (kNN)
